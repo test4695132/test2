@@ -1,1 +1,0 @@
-var name4 = 'john4'
